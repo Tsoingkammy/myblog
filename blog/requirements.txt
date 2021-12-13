@@ -5,7 +5,7 @@ Django==1.11.8
 django-haystack==2.6.1
 idna==2.6
 jieba==0.39
-lxml==4.1.1
+lxml==4.6.5
 Markdown==2.6.10
 Pygments==2.2.0
 pymongo==3.6.0
